@@ -65,8 +65,8 @@
                         <a href="#">
                             <img src="ff7.jpg" class="hover:opacity-75 transition ease-in-out duration-150 w-16">
                         </a>
-                        <div class="title__container">
-                            <a href="#" class="hover:text-gray-300 ml-6">Cyberpunk 2077</a>
+                        <div class="title__container ml-4">
+                            <a href="#" class="hover:text-gray-300 ">Cyberpunk 2077</a>
                         </div>
                     </div>
                 </div>
